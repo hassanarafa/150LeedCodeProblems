@@ -13,3 +13,5 @@ Solution For 150 LeedCodeProblems
 6 - Best Time to Buy and Sell Stock --> https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 7 - Climbing Stairs --> https://leetcode.com/problems/climbing-stairs/description/
+
+8 - Remove Element --> https://leetcode.com/problems/remove-element/description/

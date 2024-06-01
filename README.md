@@ -15,3 +15,5 @@ Solution For 150 LeedCodeProblems
 7 - Climbing Stairs --> https://leetcode.com/problems/climbing-stairs/description/
 
 8 - Remove Element --> https://leetcode.com/problems/remove-element/description/
+
+9 - Special Array With X Elements Greater Than or Equal X --> https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/

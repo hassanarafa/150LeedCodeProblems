@@ -21,3 +21,5 @@ Solution For 150 LeedCodeProblems
 10 - Score of a String --> https://leetcode.com/problems/score-of-a-string/description/
 
 11 - Reverse Integer --> https://leetcode.com/problems/reverse-integer/description/
+
+12 - Missing Number--> https://leetcode.com/problems/missing-number/description/

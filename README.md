@@ -23,3 +23,5 @@ Solution For 150 LeedCodeProblems
 11 - Reverse Integer --> https://leetcode.com/problems/reverse-integer/description/
 
 12 - Missing Number--> https://leetcode.com/problems/missing-number/description/
+
+13 - Single Number --> https://leetcode.com/problems/single-number/description/

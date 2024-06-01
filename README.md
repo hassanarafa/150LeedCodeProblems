@@ -19,3 +19,5 @@ Solution For 150 LeedCodeProblems
 9 - Special Array With X Elements Greater Than or Equal X --> https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/description/
 
 10 - Score of a String --> https://leetcode.com/problems/score-of-a-string/description/
+
+11 - Reverse Integer --> https://leetcode.com/problems/reverse-integer/description/

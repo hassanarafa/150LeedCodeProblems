@@ -18,10 +18,10 @@ public class FindCommonCharacters {
 
     public static int getMin(String[] a, char x) {
         int min = Integer.MAX_VALUE;
-        for (int i = 0; i < a.length; i++) {
+        for (String s : a) {
             int count = 0;
-            for (int j = 0; j < a[i].length(); j++) {
-                if (a[i].charAt(j) == x)
+            for (int j = 0; j < s.length(); j++) {
+                if (s.charAt(j) == x)
                     count++;
             }
             min = Math.min(min, count);
@@ -34,7 +34,6 @@ public class FindCommonCharacters {
         char[] arr = words[0].toCharArray();
         Arrays.sort(arr);
         words[0] = String.valueOf(arr);
-        System.out.println(words[0]);
         for (int i = 0; i < words[0].length(); i++) {
             while (i < words[0].length() - 1 && Objects.equals(words[0].charAt(i), words[0].charAt(i + 1))) {
                 i++;

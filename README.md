@@ -1,4 +1,4 @@
-Solution For 150 LeedCodeProblems
+Solution for 150 LeetCode Problems
 
 1 - Contains Duplicate --> https://leetcode.com/problems/contains-duplicate/description/
 

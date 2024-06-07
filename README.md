@@ -37,3 +37,5 @@ Solution For 150 LeedCodeProblems
 18 - Find Common Characters --> https://leetcode.com/problems/find-common-characters/description/
 
 19 - Replace Words --> https://leetcode.com/problems/replace-words/description/
+
+20 - Valid Parentheses --> https://leetcode.com/problems/valid-parentheses/description/

@@ -1,4 +1,4 @@
-Solution For 150 LeedCodeProblems
+# Solution For 150 LeedCodeProblems
 
 1 - Contains Duplicate --> https://leetcode.com/problems/contains-duplicate/description/
 
@@ -39,5 +39,3 @@ Solution For 150 LeedCodeProblems
 19 - Replace Words --> https://leetcode.com/problems/replace-words/description/
 
 20 - Valid Parentheses --> https://leetcode.com/problems/valid-parentheses/description/
-
-21 - Count The Number Of Consistent Strings --> https://leetcode.com/problems/count-the-number-of-consistent-strings/description/

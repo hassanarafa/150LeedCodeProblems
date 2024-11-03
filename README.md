@@ -45,3 +45,5 @@
 22 - Minimum String Length After Removing Substrings --> https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/
 
 23 - Find Kth Bit in Nth Binary String --> https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/
+
+24 - Rotate String --> https://leetcode.com/problems/rotate-string/description/

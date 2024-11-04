@@ -47,3 +47,5 @@
 23 - Find Kth Bit in Nth Binary String --> https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/
 
 24 - Rotate String --> https://leetcode.com/problems/rotate-string/description/
+
+25 - Circular Sentence --> https://leetcode.com/problems/circular-sentence/description/

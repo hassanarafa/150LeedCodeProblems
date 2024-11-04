@@ -51,3 +51,5 @@
 25 - Circular Sentence --> https://leetcode.com/problems/circular-sentence/description/
 
 26 - Delete Characters To Make Fancy String --> https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/
+
+27 - String Compression III --> https://leetcode.com/problems/string-compression-iii/description/
